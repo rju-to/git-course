@@ -1,6 +1,2 @@
 questo è nuovo ramo
-<<<<<<< HEAD
 facciamo un cambiamento
-=======
-facciamo un cambiamoneto 
->>>>>>> nuovo
